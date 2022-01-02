@@ -1,0 +1,13 @@
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\bin\Debug\netcoreapp3.1\PetshopChallenge.Shared.deps.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\bin\Debug\netcoreapp3.1\PetshopChallenge.Shared.runtimeconfig.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\bin\Debug\netcoreapp3.1\PetshopChallenge.Shared.runtimeconfig.dev.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\bin\Debug\netcoreapp3.1\PetshopChallenge.Shared.dll
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\bin\Debug\netcoreapp3.1\PetshopChallenge.Shared.pdb
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.csproj.AssemblyReference.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.AssemblyInfoInputs.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.AssemblyInfo.cs
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.dll
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.pdb
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Shared\obj\Debug\netcoreapp3.1\PetshopChallenge.Shared.genruntimeconfig.cache

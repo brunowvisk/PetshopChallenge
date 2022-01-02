@@ -1,0 +1,13 @@
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\bin\Debug\netcoreapp3.1\PetshopChallenge.Domain.deps.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\bin\Debug\netcoreapp3.1\PetshopChallenge.Domain.runtimeconfig.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\bin\Debug\netcoreapp3.1\PetshopChallenge.Domain.runtimeconfig.dev.json
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\bin\Debug\netcoreapp3.1\PetshopChallenge.Domain.dll
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\bin\Debug\netcoreapp3.1\PetshopChallenge.Domain.pdb
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.csproj.AssemblyReference.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.AssemblyInfo.cs
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.dll
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.pdb
+C:\Users\bruno_freitas\Documents\Bruno\petShopChallenge\petShopChallenge\PetshopChallenge.Domain\obj\Debug\netcoreapp3.1\PetshopChallenge.Domain.genruntimeconfig.cache
