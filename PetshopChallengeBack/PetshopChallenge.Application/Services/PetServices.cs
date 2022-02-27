@@ -40,9 +40,9 @@ namespace PetshopChallenge.Application.Services
             }
 
         }
-        public ReturnDefault DeletePets(int Id)
+        public ReturnDefault DeletePets(int petId)
         {
-            Pet pet = (Pet)_petRepository.GetAllPets();
+            Pet pet = _petRepository.GetPetById(petId);
 
             _petRepository.DeletePet(pet);
 
@@ -64,11 +64,11 @@ namespace PetshopChallenge.Application.Services
             var pet = _petRepository.GetAllPets().Where(x => x.PetId == Id);
             return GetReturnDefault(true, "Pet found!", pet);
         }
-        public ReturnDefault UpdatePets(int Id, Pet UpdatedRegistration)
+        public ReturnDefault UpdatePets(int petId, Pet UpdatedRegistration)
         {
             try
             {
-                Pet pet = (Pet)_petRepository.GetAllPets().Where(x => x.PetId == Id);
+                Pet pet = _petRepository.GetAllPets().Where(x => x.PetId == petId).FirstOrDefault();
 
                 pet.PetName = UpdatedRegistration.PetName;
                 pet.OwnerName = UpdatedRegistration.OwnerName;

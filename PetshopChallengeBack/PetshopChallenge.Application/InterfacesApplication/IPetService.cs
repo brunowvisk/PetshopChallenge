@@ -9,8 +9,8 @@ namespace PetshopChallenge.Application.InterfacesApplication
     {
         ReturnDefault AddPet(Pet pet);
         ReturnDefault GetAllPets();
-        ReturnDefault GetAllPets(int Id);
-        ReturnDefault UpdatePets(int Id, Pet UpdatedRegistration);
-        ReturnDefault DeletePets(int Id);
+        ReturnDefault GetAllPets(int petId);
+        ReturnDefault UpdatePets(int petId, Pet UpdatedRegistration);
+        ReturnDefault DeletePets(int petId);
     }
 }

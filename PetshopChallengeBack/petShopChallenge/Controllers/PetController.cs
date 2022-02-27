@@ -34,17 +34,17 @@ namespace petShopChallenge.Controllers
             return Ok(_petService.GetAllPets());
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{petId}")]
         public IActionResult GetPetById(int petId)
         {
 
             return Ok(_petService.GetAllPets(petId));
         }
 
-        [HttpPut("{id}")]
-        public IActionResult UpdatePet(int id, Pet UpdatedPet)
+        [HttpPut("{petId}")]
+        public IActionResult UpdatePet(int petId, Pet UpdatedPet)
         {
-            var pet = _petService.UpdatePets(id, UpdatedPet);
+            var pet = _petService.UpdatePets(petId, UpdatedPet);
             if (pet.Success)
             {
                 return Ok(pet);
@@ -52,7 +52,7 @@ namespace petShopChallenge.Controllers
             return NotFound();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{petId}")]
         public IActionResult RemovePet(int petId)
         {
 

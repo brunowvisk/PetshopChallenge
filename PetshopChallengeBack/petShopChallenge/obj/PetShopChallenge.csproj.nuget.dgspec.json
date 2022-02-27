@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\petShopChallenge\\PetShopChallenge.csproj": {}
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\petShopChallenge\\PetShopChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj",
         "projectName": "PetshopChallenge.Application",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj"
               }
             }
           }
@@ -90,23 +90,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj",
         "projectName": "PetshopChallenge.Domain",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -177,23 +191,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
         "projectName": "PetshopChallenge.Infra",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -213,8 +241,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
               }
             }
           }
@@ -268,23 +296,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj",
         "projectName": "PetshopChallenge.Shared",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -355,23 +397,37 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\petShopChallenge\\PetShopChallenge.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\petShopChallenge\\PetShopChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\petShopChallenge\\PetShopChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\petShopChallenge\\PetShopChallenge.csproj",
         "projectName": "PetShopChallenge",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\petShopChallenge\\PetShopChallenge.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\petShopChallenge\\PetShopChallenge.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\petShopChallenge\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\petShopChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -391,17 +447,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Application\\PetshopChallenge.Application.csproj"
               },
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
               },
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj"
               },
-              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj": {
-                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj"
+              "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj": {
+                "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Shared\\PetshopChallenge.Shared.csproj"
               }
             }
           }
@@ -473,8 +529,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.18, 3.1.18]"
+              "version": "[3.1.22, 3.1.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -485,7 +553,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

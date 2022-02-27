@@ -9,7 +9,7 @@ namespace PetshopChallenge.Infra.InterfacesInfra
     {
         IEnumerable<Pet> GetAllPets();
 
-        Pet GetPetById(int Id);
+        Pet GetPetById(int petId);
 
         void AddPet(Pet pet);
 

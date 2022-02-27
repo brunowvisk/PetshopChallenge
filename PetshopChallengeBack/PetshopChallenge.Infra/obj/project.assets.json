@@ -1918,11 +1918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
       "projectName": "PetshopChallenge.Infra",
-      "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
+      "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\PetshopChallenge.Infra.csproj",
       "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Infra\\obj\\",
+      "outputPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1942,8 +1942,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
-              "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\petShopChallenge\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
+            "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj": {
+              "projectPath": "C:\\Users\\bruno_freitas\\Documents\\Bruno\\petShopChallenge\\PetshopChallengeBack\\PetshopChallenge.Domain\\PetshopChallenge.Domain.csproj"
             }
           }
         }
@@ -1997,12 +1997,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

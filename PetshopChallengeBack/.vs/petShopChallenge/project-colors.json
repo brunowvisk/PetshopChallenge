@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "536331c8-0c3a-4a31-a5d1-5ba73e391e71": {
+      "ProjectGuid": "536331c8-0c3a-4a31-a5d1-5ba73e391e71",
+      "DisplayName": "PetshopChallenge.Infra",
+      "ColorIndex": 0
+    },
+    "e3603013-b43a-4c99-928b-4c669da4c715": {
+      "ProjectGuid": "e3603013-b43a-4c99-928b-4c669da4c715",
+      "DisplayName": "PetShopChallenge",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "ae7b3ac5-403e-49a0-a8a9-a789a5e6d82e": {
+      "ProjectGuid": "ae7b3ac5-403e-49a0-a8a9-a789a5e6d82e",
+      "DisplayName": "PetshopChallenge.Domain",
+      "ColorIndex": 2
+    },
+    "c53d6ee9-ee45-4768-9a68-02c2b6ab08aa": {
+      "ProjectGuid": "c53d6ee9-ee45-4768-9a68-02c2b6ab08aa",
+      "DisplayName": "PetshopChallenge.Application",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
