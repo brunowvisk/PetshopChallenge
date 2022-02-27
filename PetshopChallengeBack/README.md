@@ -1,4 +1,4 @@
-# ManutencaoVeiculo (Car maintenance)
+# PetshopChallenge
 Web API Rest in .Net Core 3.1 and MySQL
 
 ## Technologies used in the project
